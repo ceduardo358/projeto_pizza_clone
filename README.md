@@ -1,2 +1,2 @@
 # projeto_pizza_clone
- Clone de projeto b7web
+ Clone do projeto b7web
